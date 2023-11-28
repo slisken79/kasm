@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm',
+    name: 'Youness Repo',
     description: 'My Kasm workspaces.',
     icon: 'https://img.freepik.com/vector-premium/logotipo-letra-ye_579179-1258.jpg',
     listUrl: 'https://slisken79.github.io/kasm/',
